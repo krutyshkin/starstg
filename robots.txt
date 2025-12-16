@@ -1,5 +1,5 @@
-
 User-agent: *
 Allow: /
 
-Sitemap: https://tgstarss.vercel.app/sitemap.xml
+Sitemap: https://tgstar.vercel.app/sitemap.xml
+Host: tgstar.vercel.app
