@@ -1,1 +1,5 @@
 
+User-agent: *
+Allow: /
+
+Sitemap: https://tgstarss.vercel.app/sitemap.xml
